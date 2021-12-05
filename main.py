@@ -1,5 +1,5 @@
 def main():
-    test = [5, 4, 3, 2, 1, 0]
+    test = range(100)
     for i in test:
         print(test)
 
