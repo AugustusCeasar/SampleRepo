@@ -1,0 +1,10 @@
+diff --git a/main.py b/main.py
+index dbb88bb..a7e9a3e 100644
+--- a/main.py
++++ b/main.py
+@@ -5,4 +5,5 @@
+         print(i)
++        print(i+1)
+ 
+ 
+ if __name__ == '__main__':
